@@ -12,6 +12,8 @@ Bar-Ilan University
 The official PyTorch implementaiton of [Coarse-to-Fine Multi-Scene Pose Regression with Transformers](https://arxiv.org/abs/2308.11783).<br >
 This publication is the extendsion of our ICCV21 paper [Learning Multi-Scene Absolute Pose Regression with Transformers](https://arxiv.org/abs/2103.11468) with coarse-to-fine residual regression.
 
+<br >
+
 ![c2f_teaser](./img/c2f_teaser.png)
 
 ---
