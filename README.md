@@ -1,5 +1,20 @@
-## A Coarse-to-Fine Residual Prediction for Multi-Scene Pose Regression with Transformers 
-This repository extends the ICCV21 paper [Learning Multi-Scene Absolute Pose Regression with Transformers](https://arxiv.org/abs/2103.11468) with coarse-to-fine  residual regression. 
+<div align="center">
+<h2>A Coarse-to-Fine Residual Prediction for Multi-Scene <br > Pose Regression with Transformers</h2>
+
+[**Yoli Shavit**](https://yolish.github.io/) · [**Ron Ferens**](https://ronferens.github.io/) · [**Yosi Keller**](https://yosikeller.github.io/)
+
+Bar-Ilan University
+
+<a href="https://arxiv.org/abs/2308.11783"><img src='https://img.shields.io/badge/arXiv-c2f_MS_Transformer-red' alt='Paper PDF'></a>
+<a href='https://ronferens.github.io/c2f-ms-transfprmer/'><img src='https://img.shields.io/badge/Project_Page-c2f_MS_Transformer-green' alt='Project Page' target="_blank"></a>
+</div>
+
+The official PyTorch implementaiton of [Coarse-to-Fine Multi-Scene Pose Regression with Transformers](https://arxiv.org/abs/2308.11783).<br >
+This publication is the extendsion of our ICCV21 paper [Learning Multi-Scene Absolute Pose Regression with Transformers](https://arxiv.org/abs/2103.11468) with coarse-to-fine residual regression.
+
+![c2f_teaser](./img/c2f_teaser.png)
+
+---
 
 ### Set up 
 Please follow the instructions (prerequisites) in our the MS Transformer repository: https://github.com/yolish/multi-scene-pose-transformer 
