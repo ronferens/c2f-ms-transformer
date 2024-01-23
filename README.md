@@ -6,7 +6,7 @@
 Bar-Ilan University
 
 <a href="https://arxiv.org/abs/2308.11783"><img src='https://img.shields.io/badge/arXiv-c2f_MS_Transformer-red' alt='Paper PDF'></a>
-<a href='https://ronferens.github.io/c2f-ms-transfprmer/'><img src='https://img.shields.io/badge/Project_Page-c2f_MS_Transformer-green' alt='Project Page' target="_blank"></a>
+<a href='https://ronferens.github.io/c2f-ms-transformer/'><img src='https://img.shields.io/badge/Project_Page-c2f_MS_Transformer-green' alt='Project Page' target="_blank"></a>
 </div>
 
 The official PyTorch implementaiton of [Coarse-to-Fine Multi-Scene Pose Regression with Transformers](https://arxiv.org/abs/2308.11783).<br >
